@@ -23,3 +23,6 @@ Steps/Flow:
 
 -> Dipity article reflects it has been read and smiley face
 
+Pocket API
+https://getpocket.com/developer/
+
