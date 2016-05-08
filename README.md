@@ -5,23 +5,16 @@ Randomly choose articles from your reading list (Pocket, Instapaper - let's star
 
 Steps/Flow:
 
--> User signs in to Pocket (Pop-over in Chrome to allow user to do that)
-
--> Pop-over then refelcts logged in state + link to Pocket profile
-
--> User goes to FB
-
--> Dipity injects random article into user's feed
-
--> Dipity article also has quick links
-
---> Choose another random article instead
-
---> Ability to click and load article in iframe
-
--> Dipity marks article as read once opened on Pocket
-
--> Dipity article reflects it has been read and smiley face
+- User signs in to Pocket (Pop-over in Chrome to allow user to do that)
+- Pop-over then refelcts logged in state + link to Pocket profile
+- User goes to FB
+- Dipity injects random article into user's feed
+- Dipity article also has quick links
+ - Choose another random article instead
+ - Ability to click and load article in iframe
+- Dipity marks article as read once opened on Pocket
+- Dipity article reflects it has been read and smiley face
+- Oooh ability to add articles in your feed to "Dipity" basically sending it to Pocket
 
 Pocket API
 https://getpocket.com/developer/
