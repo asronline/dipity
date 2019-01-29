@@ -19,3 +19,7 @@ Steps/Flow:
 Pocket API
 https://getpocket.com/developer/
 
+## APIs
+getArticle()
+getArticles()
+authorize(callback)
